@@ -73,7 +73,7 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
  How to use
 ************
 
-- `Clone or donwload this repository and put to your local folder
-- `Create your Contollers, Models, Views, in folder Modules, Folder Modules in application > Modules
-- `I made sample in folder modules as welcome
-- `Enjoy
+- Clone or donwload this repository and put to your local folder
+- Create your Contollers, Models, Views, in folder Modules, Folder Modules in application > Modules
+- I made sample in folder modules as welcome
+- Enjoy
