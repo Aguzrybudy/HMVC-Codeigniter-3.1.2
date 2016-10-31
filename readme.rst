@@ -68,3 +68,9 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+## How to use
+- Clone or donwload this repository and put to your local folder
+- Create your Contollers, Models, Views, in folder Modules, Folder Modules in application > Modules
+- I made sample in folder modules as welcome
+- Enjoy
